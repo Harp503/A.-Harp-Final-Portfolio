@@ -100,13 +100,13 @@ const App = () => {
         <img src={bookstoreImg} alt="Book Store"/>
         <h3>Book Store App</h3>
         <p>Online Book Store using a variety of platforms</p>
-        <a href="https://github.com/Harp503/Bookstore-Project" className="button">View Project</a>
+        <a href="https://bookstore-project-x9qd.onrender.com" className="button">View Project</a>
       </div>
       <div className="future-projects">
         <img src={weatherImg} alt="Weather App"/>
         <h3>Weather Application</h3>
         <p>Weather App using a variety of platforms</p>
-        <a href="https://github.com/Harp503/Weather-App-Project" className="button">View Project</a>
+        <a href="https://weather-app-project-4iuj.onrender.com" className="button">View Project</a>
       </div>
       </div>
       </div>
